@@ -1,3 +1,3 @@
 # hello-world
 This is my first official repository!
-print('hello world')
+Hi, i am just learning about the Github space
